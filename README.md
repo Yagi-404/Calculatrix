@@ -21,7 +21,7 @@ More languages will be aivilable soon 👀.
 #### Depedencies
 
 - Python 3 or >
-- [Pyinstaller](####Pyinstaller) is optional
+- [Pyinstaller](https://pypi.org/project/pyinstaller/) is optional
 - Git
 
 After you're done with installations, open a new terminal session and type:
