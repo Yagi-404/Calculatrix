@@ -1,6 +1,6 @@
 # Calculatrix
 
-![logoCalculatrix](https://github.com/Yagi-404/Calculatrix/blob/main/assets/logo.svg " ")
+![logoCalculatrix](https://raw.githubusercontent.com/Yagi-404/Calculatrix/3602494affe10d7c1e541ac537df5e0ba7b55130/assets/logo.svg)
 
 ## What is Calculatrix ?
 
