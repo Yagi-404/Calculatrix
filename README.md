@@ -10,7 +10,7 @@ I know this sounds stupid but if you want to waste your time and contribute, you
 ## List of currents languages
 
 - Python
-- Java
+- Web (JavaScript, HTML, CSS)
 
 More languages will be aivilable soon 👀.
 
@@ -21,7 +21,7 @@ More languages will be aivilable soon 👀.
 #### Depedencies
 
 - Python 3 or >
-- [Pyinstaller](####Pyinstaller) is optional
+- [Pyinstaller](https://pypi.org/project/pyinstaller/) is optional
 - Git
 
 After you're done with installations, open a new terminal session and type:
