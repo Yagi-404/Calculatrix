@@ -1,2 +1,20 @@
 # just a fail here bruh
 REAME.MD
+
+# test folder
+test/
+
+# Node.js packages
+
+src/javascript/node_modules
+src/javascript/package.json
+src/javascript/package-lock.json
+
+# COMPILED FILES
+
+# C file
+a.out
+# Java file
+*.class
+# Python file
+*.pyc
