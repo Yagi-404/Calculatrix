@@ -1,0 +1,76 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100&display=swap');
+
+html {
+    background-color: rgb(55, 67, 179);
+}
+
+h1 {
+    font-family: 'Roboto', sans-serif;
+    color: black;
+    text-align: center;
+    padding: auto;
+}
+
+:root {
+    --purple: #7f00ff;
+    --pink: #e100ff;
+}
+
+input {
+    margin-left: 42%;
+    margin-top: 2em;
+    font-family: "Roboto", sans-serif;
+    font-size: 16px;
+    position: center;
+    outline: none;
+    border: none;
+    user-select: none;
+    padding: 0.75em 1.75em;
+    border-radius: 50px;
+    display: inline-block;
+    color: #fff;
+    background: linear-gradient(to right, var(--purple), var(--pink));
+}
+
+button::after {
+    content: "";
+    position: absolute;
+    z-index: -1;
+    bottom: -10px;
+    left: 5%;
+    height: 110%;
+    width: 90%;
+    opacity: 0.8;
+    border-radius: 50px;
+    background: inherit;
+    filter: blur(6px);
+    transition: all 0.2s;
+}
+
+button:hover::after {
+    filter: blur(4px);
+    width: 100%;
+    bottom: -5px;
+    left: 0;
+}
+
+button:hover:active::after {
+    filter: blur(10px);
+}
+
+button {
+    margin-left: 45%;
+    margin-top: 3em;
+    font-family: "Roboto", sans-serif;
+    font-size: 16px;
+    font-weight: bold;
+    position: relative;
+    outline: none;
+    border: none;
+    user-select: none;
+    padding: 0.75em 1.75em;
+    border-radius: 50px;
+    display: inline-block;
+    color: rgb(0, 0, 0);
+    background: linear-gradient(to right, var(--purple), var(--pink));
+}
