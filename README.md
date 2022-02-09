@@ -10,7 +10,7 @@ I know this sounds stupid but if you want to waste your time and contribute, you
 ## List of currents languages
 
 - Python
-- Java
+- Web (JavaScript, HTML, CSS)
 
 More languages will be aivilable soon 👀.
 
