@@ -1,7 +1,10 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu:wght@300&display=swap');
 
 html {
     background-color: rgb(55, 67, 179);
+    font-family: 'Ubuntu', sans-serif;
+    font-size: medium;
 }
 
 h1 {
@@ -73,4 +76,11 @@ button {
     display: inline-block;
     color: rgb(0, 0, 0);
     background: linear-gradient(to right, var(--purple), var(--pink));
+}
+
+div.historic {
+    width: auto;
+    height: auto;
+    margin-left: 30px;
+    line-height: 15px;
 }

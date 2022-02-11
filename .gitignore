@@ -10,6 +10,10 @@ src/javascript/node_modules
 src/javascript/package.json
 src/javascript/package-lock.json
 
+# Editor
+
+.vscode/
+
 # COMPILED FILES
 
 # C file
