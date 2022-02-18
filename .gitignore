@@ -22,3 +22,5 @@ a.out
 *.class
 # Python file
 *.pyc
+# Vim backup files
+.*.swp
