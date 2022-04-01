@@ -96,7 +96,7 @@ To do this, follow those steps :
 ```html
 <script>
     // your code here
-<script/>
+</script>
 ```
 If you are still dealing with an issue, make an Issue, or try sove it making a Pull Request.
 
